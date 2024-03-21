@@ -1,2 +1,3 @@
-# ML_Linear-Regression
+# Machine Learning Projects: Linear-Regression
+
 Linear regression examples in Python
