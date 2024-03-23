@@ -47,3 +47,7 @@ In the field of data science, linear regression is one of the foundational and w
 
 ### Conclusion:
 Linear regression is a fundamental technique in data science used for predicting continuous outcomes. It provides insights into the relationship between variables and helps in making informed decisions based on data. However, it's important to remember its assumptions and limitations while applying it to real-world problems.
+
+### Learning materials
+Data science track in 365 data science
+
